@@ -52,10 +52,11 @@
 
 ---
 
-<!--
-If you want to add social/academic links, list them here:
+
 - [ORCID](https://orcid.org/0000-0002-2119-1008)
 - [ResearchGate](https://www.researchgate.net/profile/Frederico-Moreira)
 - [LinkedIn](https://www.linkedin.com/in/frederico-moreira-189050b4/)
 - [Personal website](https://linktr.ee/hypervanse)
+
+<!--
 -->
